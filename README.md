@@ -24,7 +24,23 @@ Auth0 IDs are from your Auth0 dashbord App settings
 You can generate a secret_key with Djecrety
 
 3 - Install requirements :
+
 ```
 cd api
-conda install requirements.txt 
+conda install pip
+pip install requirements.txt 
 ```
+
+Note : install pip if you use conda environment
+
+4 - Migrate your django models :
+```
+python manage.py migrate
+```
+
+5 - Run server :
+```
+python manage.py runserver
+```
+
+
