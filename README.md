@@ -1,9 +1,9 @@
-# Introduction
+# Getting started
 
-This project is made to helps you create an authentication page based on Auth0 provider and Django backend.
+This project is made to helps you create an authentication page based on Auth0 and Django backend.
 
 
-# Set up
+## Installation
 
 1 - Add .env file into the app root - This is where your settings.py file is located.
 
@@ -43,6 +43,6 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-6 - You should see this home page : 
+6 - After clicking on this link from your terminal http://127.0.0.1:8000/, You should see this home page : 
 
 ![alt text](https://github.com/laurentlannareix/api/blob/d8b3304df238ff981d63c9916c390c031f831306/img/home.png)
