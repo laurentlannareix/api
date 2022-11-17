@@ -4,7 +4,7 @@ This project is made to helps you create an authentication page based on Auth0 a
 
 ## Requirements
 
-    You need Anaconda environment installed
+    * Anaconda environment installed
 
 ## Installation
 
@@ -49,3 +49,9 @@ python manage.py runserver
 6 - After clicking on this link from your terminal http://127.0.0.1:8000/, You should see this home page : 
 
 ![alt text](https://github.com/laurentlannareix/api/blob/d8b3304df238ff981d63c9916c390c031f831306/img/home.png)
+
+7 - Auth0 allows you to login : 
+
+![alt text](https://github.com/laurentlannareix/api/blob/5b25561fb6dd647c9435004cba805f0cdb8c6c98/img/login.png)
+
+Notes : The login / sign in page is fully configurable into your Auth0 dashboard App :  https://auth0.com/
