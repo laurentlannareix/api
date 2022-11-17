@@ -43,4 +43,6 @@ python manage.py migrate
 python manage.py runserver
 ```
 
+6 - You should see this home page : 
 
+![alt text](https://github.com/laurentlannareix/api/blob/d8b3304df238ff981d63c9916c390c031f831306/img/home.png)
