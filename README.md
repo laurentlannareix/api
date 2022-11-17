@@ -52,6 +52,6 @@ python manage.py runserver
 
 7 - Auth0 allows you to login : 
 
-![alt text](https://github.com/laurentlannareix/api/blob/96ade99a6fd5cdb6196db47265a32599ff7f8ac6/img/login.png)
+![alt text](https://github.com/laurentlannareix/api/blob/96ade99a6fd5cdb6196db47265a32599ff7f8ac6/img/login.png=200x300)
 
 Notes : The login / sign in page is fully configurable into your Auth0 dashboard App :  https://auth0.com/
