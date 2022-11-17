@@ -2,10 +2,13 @@
 
 This project is made to helps you create an authentication page based on Auth0 and Django backend.
 
+## Requirements
+
+    You need Anaconda environment installed
 
 ## Installation
 
-1 - Add .env file into the app root - This is where your settings.py file is located.
+1 - Add .env file into the app root - this is where the settings.py file is located.
 
 2 - Then, add the following environment variables into the .env file :
 
